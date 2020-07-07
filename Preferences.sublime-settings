@@ -1,0 +1,12 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+	],
+	"theme": "Afterglow-orange.sublime-theme",
+	"vintage_lines.force_mode": true,
+	"vintage_start_in_command_mode": true
+}

@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+	{"keys": ["ctrl+u"], "command": "scroll_lines", "args": {"amount": 20.0}, "context": [{ "key": "setting.command_mode" }]},
+	{"keys": ["ctrl+d"], "command": "scroll_lines", "args": {"amount": -20.0}, "context": [{"key": "setting.command_mode"}]},
+	{ "keys": ["alt+l"], "command": "next_view" },
+	{ "keys": ["alt+h"], "command": "prev_view" },
+]
