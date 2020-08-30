@@ -5,7 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Darkula Color Scheme",
+		"Django Syntax",
+		"Dracula Color Scheme",
 		"Package Control",
+		"Pretty JSON",
+		"Sass",
 		"Theme - Afterglow",
 		"Theme - Spaceblack",
 		"TypeScript",
